@@ -68,6 +68,7 @@ kubectl get ingress -n game-2048
 ---
 
 ## 🎯 Certifications / Skills Demonstrated
+- OCI Certified Architect Associate, Foundations Associate.
 - concepts leveraged (EKS, IAM roles, ALB).
 - Kubernetes and DevOps automation with Helm and eksctl.
 - Cloud networking and security via IAM role and Application Load Balancer setup.
