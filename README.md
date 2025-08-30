@@ -77,6 +77,7 @@ kubectl get ingress -n game-2048
 
 ## 📬 Contact / Let’s Connect
 Reach out for collaboration:  
-[![LinkedIn](www.linkedin.com/in/nirmaladitya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nirmaladitya)
+
 
 ---
